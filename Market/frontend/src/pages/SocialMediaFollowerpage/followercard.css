@@ -1,0 +1,33 @@
+.overlap-group566 {
+  align-items: center;
+  border: 3px solid;
+  border-color: var(--white-3);
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  min-height: 250px;
+  padding: 6px 0;
+  width: 350px;
+}
+.pexels-thyrone-paas-1722198-2 {
+  height: 75px;
+  margin-left: 10%;
+  margin-top: 10px;
+  object-fit: cover;
+  width: 75px;
+}
+
+.followers-num {
+  font-size: 20px;
+  font-weight: lighter;
+}
+
+.followers-tit {
+  font-weight: lighter;
+  color: rgba(255, 255, 255, 0.482);
+}
+
+.username {
+  font-weight: lighter;
+  color: rgba(255, 255, 255, 0.482);
+}

@@ -1,0 +1,32 @@
+.pexels-thyrone-paas-1722198-2 {
+  height: 75px;
+  margin-left: 10%;
+  margin-top: 10px;
+  object-fit: cover;
+  width: 75px;
+}
+
+.pexels-thyrone-paas-1722198-3 {
+  height: 50px;
+  margin-left: 10%;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  object-fit: cover;
+}
+
+.border_box {
+  border: 1px solid rgb(255, 255, 255);
+}
+
+.button_order_style {
+  width: 150px;
+  border: 1px solid rgb(255, 255, 255);
+  background-color: #23263c;
+  padding-bottom: 400px;
+}
+
+.seeOrders {
+  border: 1px solid rgb(255, 255, 255);
+  color: white;
+  width: "100px";
+}

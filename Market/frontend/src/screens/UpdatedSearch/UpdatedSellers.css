@@ -1,0 +1,295 @@
+.remade-sellers-page {
+  align-items: flex-start;
+  background-color: #191b2a;
+  display: flex;
+  flex-direction: column;
+}
+
+.overlap-group-container-1 {
+  flex-direction: column;
+  gap: 4px;
+  min-height: 305px;
+  width: 1440px;
+}
+
+.overlap-group8 {
+  height: 279px;
+  position: relative;
+  width: 1440px;
+}
+
+.overlap-group2 {
+  height: 225px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.rectangle-66 {
+  background-color: #6466791f;
+  height: 101px;
+  left: 0;
+  position: absolute;
+  top: 90px;
+  width: 1440px;
+}
+
+.logo-3 {
+  height: 108px;
+  left: 17px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 106px;
+}
+
+.place {
+  color: transparent;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  left: 152px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 40px;
+}
+
+.social {
+  left: 232px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 40px;
+}
+
+.market {
+  left: 313px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 40px;
+}
+
+.sign-up {
+  left: 1231px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 40px;
+}
+
+.rectangle-65 {
+  height: 39px;
+  left: 1317px;
+  position: absolute;
+  top: 33px;
+  width: 108px;
+}
+
+.sign-up-1 {
+  left: 1335px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 40px;
+}
+
+.rectangle-67 {
+  background-color: #2a2c3e;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 69px;
+  left: 495px;
+  position: absolute;
+  top: 156px;
+  width: 449px;
+}
+
+.icon-search {
+  height: 32px;
+  left: 505px;
+  position: absolute;
+  top: 175px;
+  width: 32px;
+}
+
+.search {
+  left: 556px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 178px;
+}
+
+.cancel {
+  height: 32px;
+  left: 896px;
+  position: absolute;
+  top: 175px;
+  width: 32px;
+}
+
+.title {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  left: 21px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 221px;
+}
+
+.overlap-group9 {
+  height: 22px;
+  margin-left: 4px;
+  position: relative;
+  width: 1368px;
+}
+
+.overlap-group7 {
+  height: 22px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1368px;
+}
+
+.live-sessions {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.line-4 {
+  height: 4px;
+  left: 0;
+  position: absolute;
+  top: 18px;
+  width: 1368px;
+}
+
+.polygon-1 {
+  height: 4px;
+  left: 36px;
+  position: absolute;
+  top: 15px;
+  width: 8px;
+}
+
+.tutorials {
+  left: 149px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.documentation {
+  left: 262px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.flex-row {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  gap: 61px;
+  height: 589px;
+  margin-right: 7px;
+  margin-top: 30px;
+  min-width: 1391px;
+}
+
+.overlap-group-container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 87px;
+  min-height: 589px;
+  width: 423px;
+}
+
+.overlap-group {
+  background-color: var(--steel-gray);
+  border-radius: 22px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 251px;
+  margin-right: 6px;
+  position: relative;
+  width: 417px;
+}
+
+.rectangle {
+  background-color: var(--steel-gray);
+  border-radius: 0px 0px 22px 22px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 58px;
+  left: 0;
+  position: absolute;
+  top: 193px;
+  width: 417px;
+}
+
+.name {
+  left: 107px;
+  letter-spacing: 1.7px;
+  line-height: 28.5px;
+  position: absolute;
+  top: 197px;
+  white-space: nowrap;
+}
+
+.pexels-roxanne-minnish-7949604 {
+  height: 193px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 417px;
+}
+
+.rectangle-1 {
+  background-color: var(--martinique);
+  border-radius: 5px;
+  height: 60px;
+  left: 31px;
+  position: absolute;
+  top: 168px;
+  width: 60px;
+}
+
+.pexels-leonardo-gonzalez-1467475 {
+  height: 56px;
+  left: 33px;
+  object-fit: cover;
+  position: absolute;
+  top: 170px;
+  width: 56px;
+}
+
+.overlap-group-1 {
+  background-color: var(--steel-gray);
+  border-radius: 22px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 251px;
+  margin-left: 6px;
+  position: relative;
+  width: 417px;
+}
+
+.logo-2 {
+  height: 1px;
+  margin-right: -804px;
+  margin-top: 383px;
+  object-fit: cover;
+  width: 1px;
+}

@@ -1,0 +1,121 @@
+html,
+body {
+  min-height: 100%;
+  margin: 0;
+  background-color: #ffffff;
+  color: white;
+}
+.header {
+  display: block;
+  text-align: center;
+  font-size: 30px;
+  margin: 10px 0;
+}
+*.app {
+  min-height: 100%;
+  align-items: center;
+  align-content: center;
+}
+.cartitem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 20px;
+  margin-bottom: 20px;
+}
+.main-footer {
+  background-color: #3080e3;
+}
+.cartItemImg {
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+}
+
+.cartItemDetail {
+  display: flex;
+  flex: 1;
+  padding: 0 20px;
+  flex-direction: column;
+}
+
+/* Home Page */
+
+.home {
+  display: flex;
+}
+
+.filters {
+  background-color: #dbdde0;
+  color: rgba(43, 39, 39, 0.788);
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 13px;
+  width: 50%;
+  margin: 10px;
+  height: 50vh;
+}
+
+.filters > span {
+  padding-bottom: 20px;
+}
+
+.title {
+  font-size: 30px;
+}
+
+.productContainer {
+  display: flex;
+  width: 78%;
+  padding: 20px;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.StripeElement--webkit-autofill {
+  background: transparent !important;
+}
+
+.StripeElement {
+  width: 100%;
+  padding: 11px 15px 11px 0;
+}
+.products {
+  width: 100%;
+  margin: 10px;
+}
+
+.summary {
+  width: 30%;
+}
+
+/* Media Queries */
+@media (max-width: 771px) {
+  .filters {
+    width: 40%;
+    padding: 10px;
+    margin: 5px;
+  }
+
+  .filters > span {
+    font-size: 10px;
+  }
+
+  .title {
+    font-size: 18px !important;
+  }
+
+  .productContainer {
+    width: 58%;
+    padding: 0;
+  }
+
+  .search {
+    display: none !important;
+  }
+
+  .products {
+    width: 100%;
+  }
+}

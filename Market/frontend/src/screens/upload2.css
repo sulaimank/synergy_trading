@@ -1,0 +1,15 @@
+.file-card {
+  height: 300px;
+}
+
+.file-input {
+  position: relative;
+  margin-bottom: 1.5em;
+
+  z-index: 2;
+  opacity: 0;
+}
+
+.input[type="file"] {
+  display: none;
+}
